@@ -1,0 +1,638 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    
+    
+    
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no, url=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <custom name="opencounter" type="tracking" />
+    <title>Email Preview
+    </title>
+    <base target="_blank">
+    <style type="text/css">
+      a{text-decoration:none !important}
+body{background-color:#ffffff;-webkit-font-smoothing:antialiased;min-width:700px}
+table{border-collapse:collapse}
+div{line-height:1 !important}
+line body table,body table>tr>td,body table>tr>th,body table>tbody>tr>td,body table>tbody>tr>th,body table>thead>tr>td,body table>thead>tr>th,body table>tfoot>tr>td,body table>tfoot>tr>th{border:none !important}
+.displayBorder{border:1px solid #367878 !important}
+.deviceWidth{width:700px !important;padding:0px !important;margin:auto}
+.noWrap{white-space:nowrap !important} 
+@media only screen and (max-width:620px),screen and (max-width:480px){.smItemWrap{display:block !important;text-align:center !important;min-width:160px !important}
+.smItemWrap .smTitle{display:block !important;            padding-top: 0px !important;padding-left: 0px !important;padding-right: 0px !important;font-size:15px !important;line-height:18px !important;text-align:center !important}
+.smItemWrap img{padding-right:0px!important}
+.noPadding{padding:0px !important}
+.responsive-td{width:100% !important;float:left !important;padding:0px !important}
+.imagePadding{padding-bottom: 10px !important}  
+.imagePadding-left{padding-bottom:8px !important;padding-left:0px !important;padding-right:4px !important}
+.imagePadding-right{padding-bottom:8px !important;padding-left:4px !important;padding-right:0px !important}  
+.mobileDevice{position:relative;left:-10px}
+body{min-width:0px !important}
+.clearfix{overflow:hidden}
+.deviceWidth{width:100% !important;padding:0px !important;margin:auto}
+.fullWidth{width:100% !important;padding:0 !important}
+.fullWidth img {width: 100% !important;padding: 0 !important;} 
+.halfWidth{width: 50% !important;padding: 0 !important} 
+.downloadWidth{padding:0 !important}
+.fullWidthBlock{float:none;width:auto !important;display:block !important}
+.QRcenter{padding:0 !important;text-align:center}
+.top_logos{padding-left:20px !important;padding-right:20px !important}
+.header_logo_brand_mpo img{width:125px !important;height:auto !important;padding-top:5px}
+.header_logo_second img{width:115px !important;height:auto !important}
+.viewWebLink{text-align:center}
+.footer_inner{padding:0 0 20px !important}
+.footer_inner_container{padding:0 20px}
+.footer_logos{float:left;padding-right:20px !important}
+.footer_logos img{height:16px}
+body td.bottom-link{padding:10px 0px !important}
+.footer_disclaimer{padding:20px 0px 0px !important}
+.footer_link{float:left;padding:20px 15px 0px 0px !important}
+.footer_link a,.footer_link span{font-size:13px !important}
+.footer_copyright{display:block;clear:both;padding-top:15px !important}
+.footer_copyright.marketing_footer{display:table-cell;padding-top:5px !important}
+.footer_copyright a,.footer_copyright span{font-size:9px !important}
+.footer_copyright_text{padding-right:0.2em!important}
+.smTitle{font-size:20px !important;line-height:24px !important}
+.smDescription{font-size:13px !important;line-height:17px !important}
+.smGreeting{font-size:16px !important}
+.smPadding{padding-left:1.67em !important;padding-right:1.67em !important;padding-top:1.67em !important;padding-bottom:1.67em !important;height:auto !important}
+.fontSize10{font-size:10px !important;height:10px !important;line-height:10px !important}
+.VC-smPadding{padding-left:0.84em !important;padding-right:0.84em !important;padding-top:1.67em !important;padding-bottom:2.08em !important}
+.VC-lineheight{height:0px !important}
+.VC-2-2-smPadding{padding-top:1.25em !important}
+.VC-Float{float:left;clear:left;text-align:center !important}
+.VC-smSpacing{height:1.25em !important;width:100% !important}
+.VC-sm-Asiamail{background:#facf00 !important}
+.VC-sm-Asiamil-content{background:#ffffff !important}
+.VC-sm-Asiamail-bottom{padding-bottom:8px !important}
+.VC-sm-Asiamail-top{padding-top:8px !important}
+.bottomImgPadding{padding:25px 0 5px !important}
+.downloadText{text-align:center !important;display:block !important}
+.downloadText-1{margin:0px !important;padding-left:20px !important;padding-right:20px !important;text-align:center !important}
+.downloadText-padding{padding-bottom:15px !important}
+.downloadText-top{padding-top:20px !important}
+.downloadText-top-1{padding-top:30px !important;padding-bottom:5px !important}
+.downloadText-top-2{padding-top:26px !important}
+.downloadText-top-3{padding-top:28px !important;padding-bottom:5px !important}
+.downloadImg{padding-bottom:30px !important;display:inline-block !important;margin:0 auto}
+.downloadImg-1{padding-top:15px !important;padding-bottom:30px !important;display:inline-block !important;padding-right:10px !important}
+.downloadImg-2{padding-top:15px !important}
+.downloadImg-3{padding-top:15px !important;padding-right:15px !important;padding-left:15px !important}
+.downloadImg-4,.downloadImg-4 img {padding-bottom:24px !important;padding-right:15px !important;padding-left:15px !important}
+.downloadImg-right{padding-bottom:30px !important;padding-right:22px !important;align:right}
+.downloadImg-left{padding-bottom:30px !important;padding-left:22px !important;align:left}
+.show{display:block !important}
+.topImgPadding{padding:5px 0px !important}
+.imgBlock{text-align:center !important}
+.fareTable_text_left{text-align:left !important;padding-right:5px !important;padding-left:5px !important;padding-top: 12px !important;font-size:12px !important;line-height: 14px !important;width: 50% !important}
+.fareTable_text_right{text-align:right !important;padding-right:5px !important;padding-left:5px !important;padding-top: 12px !important;font-size:12px !important;line-height: 14px !important}
+.fareTable_text_right-1{width:50% !important}
+.content_text_hr{padding-left:0px !important;padding-right:0px !important}
+.content_text_hr table{width:67px !important}
+.content_text_hr hr{width:67px;border-color:#006564;border-width:0.5px}
+.fareTable_title{width:100% !important;display:block;text-align:center !important;margin-left:auto;margin-right:auto}
+.deviceWidthLarger{width:100% !important;height:auto !important}
+.deviceWidthCommon{width:100% !important;padding-left:20px !important;padding-right:20px !important;}
+.discoveryBlock{display:block !important;padding:0px !important}
+.hide{display:none !important}
+.destinationImgHeight{height:200px}
+.packageImgHeight{height:192px}
+.leftAlign{text-align:left !important}
+.marginBottom{margin-bottom:10px !important}
+.tableStyle{font-size:11px !important;line-height:12px}
+.fanfareLogo{width:160px !important}
+.displayblock{padding:0px !important;margin:0px !important;display:block !important}
+.littleSize{font-size:13px !important}
+.textLeft{text-align:left !important}
+.ts12{font-size:12px !important;line-height:normal !important}
+.ts20{font-size:20px !important}
+.ts10{font-size:10px !important;line-height:normal !important}
+.paddingBottomLarge{padding-bottom:30px !important}
+.paddingmiddle{padding:8px 0px !important}
+.smallWidth{width:70px !important}
+.paddingLeft20{padding-left:20px !important}
+.paddingRight20{padding-right:20px !important}
+.borderNone{border:none !important}
+.paddingTopLarge{padding-top:20px !important}
+.headerMessage{margin:0px !important}
+td.hero-banner-message{padding:0px 21px !important}
+.remindInfo{font-size:13px !important;line-height:18px !important}
+.tripReady{font-size:11px !important}
+.inline{display:inline !important}
+.smallLineHeight{line-height:13px !important}
+.downloadImg-noPadding{padding:0px !important}
+.downloadImg-5 img{padding-top:13px !important;padding-left:5px !important;padding-right:20px !important}
+.downloadImg-6 img{padding-top: 15px !important;padding-bottom: 24px !important;padding-right: 15px !important;padding-left: 15px !important}
+.ImgCenter{text-align:center !important;padding:0px !important;width:200px !important}
+.imageCenter{padding:0px !important}
+.QRImageCenter{text-align:center !important;padding:0px !important;width:300px !important}
+.removePadding{padding:0px !important;text-align:center !important}
+.inline{display:inline !important}
+.titlePadding{padding-bottom:23px !important}
+.stylingblock-content-wrapper.camarker-inner{padding:0px !important}
+.x_stylingblock-content-wrapper.x_camarker-inner{padding:0px !important}
+.x_stylingblock-content-wrapper{padding:0px !important}
+.x_camarker-inner{padding:0px !important}
+.smTextPadding{padding:0px !important}
+.smPadding-1{padding-left:20px !important;padding-right:20px !important}
+.smTextPadding-1{padding-left:0px !important;padding-right:20px !important}
+.smTextPadding-2{padding-top:5px !important;padding-bottom:0px !important;padding-left:20px !important;padding-right:20px !important}
+.smTdHeight{padding-left:0px !important;padding-right:0px !important;padding-bottom:0px !important}
+.smDivpadding{height:10px !important}
+.camarker-inner{padding:0px !important}
+.copy_right_text{padding:0px !important}
+.smAccountSummary-1{padding-left:20px !important}
+.smAccountSummary-2{padding-left:56px !important;padding-right:56px !important}
+.lineToWidth{width:234px !important;height:0px !important;border:1px solid #C5C7C9 !important}
+.smAccountSummary-3{width:50% !important}
+.line{border-color:#c5c7c9 !important;border-width:1px !important;border-style:solid !important;height:186px !important}
+.smPaddingAccountSummary{padding-left:0px !important;padding-right:15px !important}
+.smPaddingAccountSummary-1{padding-left:15px !important;padding-right:0px !important}
+.smCardPadding{padding:30px 20px !important}
+.todoItemTitle{padding-bottom:20px !important}
+.smPaddingTop{padding-top:20px !important}
+.smBottomPadding{padding-bottom:30px !important}
+.smPSize{width:218px !important;padding:0 !important}
+.smPSize-02{padding-left:56px !important;padding-right:56px !important;padding-bottom:16px !important}
+.smLinePadding{padding-top:30px !important;padding-bottom:30px !important}
+.smPaddingBottom{padding-top:9px !important;padding-bottom:0px !important}
+.smPicHeight{height:186px !important}
+.smPaddingNoBottom{padding-bottom:0px !important}
+.gateText{padding-bottom:30px !important;padding-top:0px !important}
+.gateText-1{padding-top:30px !important}
+.smFontSize{font-size:12px !important;line-height:16px !important}
+.smPaddingBottom-1{padding-bottom:56px !important}
+.smline{width:30% !important;border:1 solid !important;background-color:#2D2D2D !important}
+.smPSize-03{padding-bottom:20px !important}
+.smPaddingTop-01{padding-top:0px !important}
+.smPaddingBottom-1{padding-bottom:54px !important}
+.mobile-padding-bottom-10{padding-bottom:10px !important;padding-right:0px !important}
+.mobile-width-280{width:280px !important}
+.todoItemTitle-01{padding-bottom:15px !important}
+.foot_padding{padding-left:20px !important;font-size:9px !important;line-height:11px !important}
+.foot_padding_01{font-size:14px !important;line-height:16px !important;padding-left:20px !important}
+.foot_padding_02{font-size:10px !important;line-height:16px !important;padding-left:20px !important}
+}</style>
+  </head>
+  <body leftmargin="0" marginheight="0" marginwidth="0" style="width:100%; margin:0;line-height : 100%; font-size : 16px; color : #000000; padding : 0px; " topmargin="0" yahoo="fix">
+    <!-- Wrapper start-->
+    <table align="center" class="deviceWidth" border="0" cellpadding="0" cellspacing="0"  bgcolor="#EBECED">
+      <tr>
+        <td align="center" style="padding-left:40px;padding-right:40px;padding-bottom:40px;" class="smTdHeight">
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #E6E7E8; min-width: 100%; " class="slot-styling"><tr><td style="padding: 0px; " class="slot-styling camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><style type="text/css">
+#btn {
+    min-width: 216px;
+  }
+  .MsoNormalTable {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+  }
+  a:hover {
+    text-decoration: underline !important;
+  }</style><table align="center" bgcolor="#EBECED" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <!--####################################### BODY START  #######################################--><table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <th bgcolor="#f9f9f9" class="deviceWidth VC-Float" style="margin:0px;font-weight:normal;text-align:left;" valign="top">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+         
+          <tr>
+           <td align="left" bgcolor="#f9f9f9" class="deviceWidthLarger smPadding-1" style="padding: 20px 30px; text-align: left;" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0">
+             
+              <tr>
+               <td class="deviceWidth">
+                <table border="0" cellpadding="0" cellspacing="0">
+                 
+                  <tr>
+                   <td align="center" style="padding-bottom: 5px;margin:0px;color: #2D2D2D;  font-family:%%=v(@BodyFontFamily)=%%;font-size: 28px; line-height: 30px; text-align: center;" width="640">
+                    《The Shortlist》国泰精选</td></tr><tr>
+                   <td align="center" style="margin:0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px; line-height: 20px;text-align: center;" width="640">
+                    国泰各项航班、优惠和礼遇资讯</td></tr></table></td></tr></table></td></tr></table><img alt="hero image" src="https://www.cathaypacific.com/content/dam/focal-point/cx/city-offer-thumbnail/LHR.renditionimage.900.450.jpg" style="margin: 0px; padding: 0px;height: auto; width: 100%; border: none;" width="700"><table align="left" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+         
+          <tr>
+           <td align="left" bgcolor="#f9f9f9" class="deviceWidthLarger smCardPadding" style="padding: 40px 30px; text-align: left;" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0">
+             
+              <tr>
+               <td class="deviceWidth">
+                <table border="0" cellpadding="0" cellspacing="0">
+                 
+                  <tr>
+                   <td style="padding-bottom:20px;margin:0px;color: #2D2D2D;  font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;   text-align: left;">
+                    <span>%%=v(@LocalFormatSendDate)=%%</span></td></tr><tr>
+                   <td align="left" style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left;" width="640px">
+                    <span style="color:#2d2d2d">Picture yourself strolling beneath Seoul&rsquo;s cherry blossoms or embracing the cultural festivities in Bali. With spring in full bloom, it&rsquo;s the perfect time to travel abroad.<br>
+                    <br>
+                    Book &ldquo;Flight + Hotel&rdquo; travel packages via Cathay Holidays to enjoy the limited-time special fares* and earn up to HKD4=<span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">1</span>. Secure your flight and hotel together for a seamless and unforgettable spring getaway.&nbsp;</span><br>
+                    &nbsp;</td></tr><tr>
+                   <td align="left" style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left;" width="640px">
+                    <table width="100%">
+                     
+                      <tr>
+                       <td style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left; padding: 10px 0px 0px 0px;" valign="top" width="25%">
+                        <b>Booking period:&nbsp;</b></td><td style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left; padding: 10px 0px 0px 0px;">
+                        From now until 5 March 2025</td></tr><tr>
+                       <td style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left; padding: 10px 0px 0px 0px;" valign="top" width="25%">
+                        <b>Travelling period:&nbsp;</b></td><td style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left; padding: 10px 0px 0px 0px;">
+                        From now until 31 December 2025</td></tr><tr>
+                       <td style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left; padding: 10px 0px 0px 0px;" valign="top" width="25%">
+                        <b>Origin:</b></td><td style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left; padding: 10px 0px 0px 0px;">
+                        Hong Kong</td></tr></table></td></tr><tr>
+                   <td align="left" style="margin:0px;color: #2D2D2D;
+                                                    font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left;" width="640px">
+                    <span style="color:#2d2d2d">*Applicable to Economy class on all Cathay Pacific flights and to Premium Economy class on selected destinations.</span></td></tr><tr>
+                   <td align="left" class="todoItemTitle" height="0" style="line-height: 0; padding-bottom: 30px;" valign="top" width="100%">
+                    &nbsp;</td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="fullWidth" id="btn" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 216px;" width:="216px">
+                 
+                  <tr>
+                   <td align="center" class="fullWidth" height="55" style="background:#2C4036; height: 55px;" valign="center" width="100%">
+                    <a class="fullWidth" href="https://holiday.cathaypacific.com/en_HK/offers/package-special-fare.html?utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20250220-HK-RMO-PROMOTION-SPRING&utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20250218-HK-RMO-PROMOTION-SPRING" name="_" style="background:#2C4036; text-align: center; color: #FFFFFF; line-height: 24px; font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px; text-decoration:
+                                                                                                         none; display: block;padding-right: 15px ;padding-left:15px;" target="_blank" xt="SPCLICK">Book now</a></td></tr></table></td></tr></table></td></tr></table></th></tr><tr>
+       <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0" style="line-height: 0; padding-bottom: 30px;" valign="top" width="100%">
+        &nbsp;</td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <td align="center" class="deviceWidthCommon" style="padding:0px 30px; text-align: left;" valign="top" width="100%">
+        <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+         
+          <tr>
+           <td colspan="2" style="align-items:center;" width="100%">
+            <table border="0" cellpadding="0" cellspacing="0">
+             
+              <tr>
+               <td style="display: flex;align-items:center;padding-top:4px;" width="100%">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger">
+                 
+                  <tr>
+                   <td style="margin:0px;height: 34px;" width="50">
+                    <img alt=" " data-assetid="601500" src="https://image.e.cathaypacific.com/lib/fe3211717064047f711d73/m/1/021a418c-e6f2-4419-86db-d2b625c101a1.jpg" style="height: auto; width: 100%; padding: 0px; text-align: center;" width="50"></td><td style="padding-left:11px;margin: 0px; color: #2D2D2D;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px; line-height: 20px;text-align: left; ">
+                    <p>
+                     <b style="line-height: 24px;">Exclusive limited-time 2X miles&nbsp;</b></p></td></tr></table></td></tr><tr>
+               <td style="display: flex;align-items:center;padding-bottom:5px;" width="100%">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger">
+                 
+                  <tr>
+                   <td style="margin:0px;height: 34px;" width="50">
+                   </td><td style="padding-left:11px;margin: 0px; color: #2D2D2D;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;text-align: left; ">
+                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                     
+                      <tr>
+                       <td style="padding:0; color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left;" valign="top">
+                        Spend at selected partners with linked Standard Chartered Cathay Mastercard&reg; to earn 2X miles from selected partner.</td></tr></table></td></tr></table></td></tr><tr>
+               <td style="display: flex;padding-top:4px;" width="100%">
+               </td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <td align="center" class="deviceWidthCommon" style="padding:0px 30px; text-align: left;" valign="top" width="100%">
+        <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+         
+          <tr>
+           <td colspan="2" style="align-items:center;" width="100%">
+            <table border="0" cellpadding="0" cellspacing="0">
+             
+              <tr>
+               <td style="display: flex;align-items:center;padding-top:4px;" width="100%">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger">
+                 
+                  <tr>
+                   <td style="margin:0px;height: 34px;" width="50">
+                    <img alt=" " data-assetid="601500" src="https://image.e.cathaypacific.com/lib/fe3211717064047f711d73/m/1/021a418c-e6f2-4419-86db-d2b625c101a1.jpg" style="height: auto; width: 100%; padding: 0px; text-align: center;" width="50"></td><td style="padding-left:11px;margin: 0px; color: #2D2D2D;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px; line-height: 20px;text-align: left; ">
+                    <p>
+                     <b style="line-height: 24px;">Exclusive limited-time 2X miles&nbsp;</b></p></td></tr></table></td></tr><tr>
+               <td style="display: flex;align-items:center;padding-bottom:5px;" width="100%">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger">
+                 
+                  <tr>
+                   <td style="margin:0px;height: 34px;" width="50">
+                   </td><td style="padding-left:11px;margin: 0px; color: #2D2D2D;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;text-align: left; ">
+                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                     
+                      <tr>
+                       <td style="padding:0; color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left;" valign="top">
+                        Spend at selected partners with linked Standard Chartered Cathay Mastercard&reg; to earn 2X miles from selected partner.</td></tr></table></td></tr></table></td></tr><tr>
+               <td style="display: flex;padding-top:4px;" width="100%">
+               </td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <td align="center" class="deviceWidthCommon" style="padding:0px 30px; text-align: left;" valign="top" width="100%">
+        <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+         
+          <tr>
+           <td colspan="2" style="align-items:center;" width="100%">
+            <table border="0" cellpadding="0" cellspacing="0">
+             
+              <tr>
+               <td style="display: flex;align-items:center;padding-top:4px;" width="100%">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger">
+                 
+                  <tr>
+                   <td style="margin:0px;height: 34px;" width="50">
+                    <img alt=" " data-assetid="601500" src="https://image.e.cathaypacific.com/lib/fe3211717064047f711d73/m/1/021a418c-e6f2-4419-86db-d2b625c101a1.jpg" style="height: auto; width: 100%; padding: 0px; text-align: center;" width="50"></td><td style="padding-left:11px;margin: 0px; color: #2D2D2D;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px; line-height: 20px;text-align: left; ">
+                    <p>
+                     <b style="line-height: 24px;">Exclusive limited-time 2X miles&nbsp;</b></p></td></tr></table></td></tr><tr>
+               <td style="display: flex;align-items:center;padding-bottom:5px;" width="100%">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger">
+                 
+                  <tr>
+                   <td style="margin:0px;height: 34px;" width="50">
+                   </td><td style="padding-left:11px;margin: 0px; color: #2D2D2D;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;text-align: left; ">
+                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                     
+                      <tr>
+                       <td style="padding:0; color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 20px;text-align: left;" valign="top">
+                        Spend at selected partners with linked Standard Chartered Cathay Mastercard&reg; to earn 2X miles from selected partner.</td></tr></table></td></tr></table></td></tr><tr>
+               <td style="display: flex;padding-top:4px;" width="100%">
+               </td></tr></table></td></tr><tr>
+           <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0 " style="line-height: 0; padding-bottom: 20px; " valign="top " width="100% ">
+            &nbsp;</td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><style type="text/css">
+a:hover {
+                  text-decoration: underline !important;
+                }</style><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidthCommon" width="700">
+     
+      <tr>
+       <td align="center" bgcolor="#ffffff" valign="top" width="100%">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidthCommon" width="640">
+         
+          <tr>
+           <th bgcolor="#f9f9f9" class="VC-Float" style="background-color:%%=v(@PillarBGColor)=%%; font-weight:normal;text-align:left; position: relative;" valign="top">
+            <!-- <a class="test" href="https://www.cathaypacific.com/cx/sc_CN.html" style="color:transparent;width:100%; height: 100%; position: absolute;z-index:auto;">placeholder</a> --><table align="left" border="0" cellpadding="0" cellspacing="0" class="deviceWidthCommon" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="640">
+             
+              <tr>
+               <td align="center" valign="top" width="100%">
+                <a alias="%%=v(@alias1)=%%" conversion="false" data-linkto="https://" href="https://flights.cathaypacific.com/zh_HK/offers/weekly-discovery.html?utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20261019-HK-THE_SHORTLIST_MASS_2026&utm_content=V21" name="hero image" target="_blank" title=""><img alt="hero" data-assetid="619960" src="https://image.e.cathaypacific.com/lib/fe3f11717064047d751475/m/1/f9a8b75a-697c-46b3-9851-95bc367f123b.jpg" style="margin: 0px; padding: 0px; display: block; height: auto; width: 100%; text-align: center; border: 0px transparent;" width="640"></a></td></tr><tr>
+               <td align="left" class="deviceWidthCommon" style="padding: 30px 20px; text-align: left;" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0">
+                 
+                  <tr>
+                   <td style="line-height:26px; width:280px; text-align:left " width="428">
+                    <span style="margin: 0px; color: #886521;font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 25px; width: 180px;text-align: left; ">本周精选之旅</span></td></tr><tr>
+                   <td style="padding-top:5px; line-height:26px; width:280px; text-align:left " width="428">
+                    <span style="margin: 0px;font-family:%%=v(@BodyFontFamily)=%%;font-size:20px;color:#272727 "><span style="">1.&nbsp;</span></span></td></tr><tr>
+                   <td class="infoText " style="padding:20px 0px; line-height:20px; width:640px; text-align:left ">
+                    <span style="margin: 0px; color:#272727;font-family:%%=v(@BodyFontFamily)=%%;font-size:14px">游逛胡志明市，探索打卡地标建筑、熙熙攘攘的市集和满载活力的咖啡店。来发掘最佳票价，飞往这座活力都市以及河内、台北、首尔、阿拉木图、乌鲁木齐、德里、海得拉巴等精彩目的地。</span></td></tr><tr>
+                   <td class="gateTimeText" style="line-height:20px; font-family:%%=v(@BodyFontFamily)=%%; text-align:left ">
+                    <a alias="%%=v(@alias1)=%%" conversion="false" data-linkto="https://" href="https://flights.cathaypacific.com/zh_HK/offers/weekly-discovery.html?utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20261019-HK-THE_SHORTLIST_MASS_2026&utm_content=V21" style="color:#367878;text-decoration:none;" title="">探索目的地 <img src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/link-arrow.png" width="16"></a></td></tr></table></td></tr></table></th></tr><tr>
+           <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0" style="line-height: 0; padding-bottom: 40px;" valign="top" width="100%">
+            &nbsp;</td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center" width="100%">
+    <table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <td align="center" class="deviceWidthCommon" style="font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px; line-height: 17px;" width="640">
+        <table border="0" bordercolor="#D8D8D8" cellpadding="0" cellspacing="0" class="deviceWidthCommon" style="text-align: center; border-collapse: collapse;" width="640">
+         
+          <tr>
+           <td bgcolor="#4A4A4A" class="tableStyle" height="42" style="color: #FEFEFE; border: 1px solid #D8D8D8 !important;font-weight: bold;" width="33%">
+            <br>
+            <span style="color: #FEFEFE; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">Ticketing tier</span><br>
+            &nbsp;</td><td bgcolor="#4A4A4A" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <b><span style="color: #FEFEFE; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">Miles</span></b><br>
+            &nbsp;</td><td bgcolor="#4A4A4A" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <b><span style="color: #FEFEFE; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">Miles Plus Cash</span></b><br>
+            &nbsp;</td></tr><tr>
+           <td bgcolor="#FFFFFF" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <br>
+            <span style="color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">HKD980</span><br>
+            <br>
+            &nbsp;</td><td bgcolor="#FFFFFF" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <br>
+            <span style="color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;"><span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">32,000</span></span><br>
+            <br>
+            &nbsp;</td><td bgcolor="#FFFFFF" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <br>
+            <span style="color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">$601 + <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">15,000</span></span><br>
+            <br>
+            &nbsp;</td></tr><tr>
+           <td bgcolor="#FFFFFF" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <br>
+            <span style="color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">HKD680</span><br>
+            <br>
+            &nbsp;</td><td bgcolor="#FFFFFF" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <br>
+            <span style="color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;"><span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">23,000</span></span><br>
+            <br>
+            &nbsp;</td><td bgcolor="#FFFFFF" class="tableStyle" height="42" style="color: #2D2D2D; border: 1px solid #D8D8D8 !important;" width="33%">
+            <br>
+            <br>
+            <span style="color: #2D2D2D; font-family:%%=v(@BodyFontFamily)=%%;font-size: 14px;line-height: 17px; text-align: center;">$289 + <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">15,000</span></span><br>
+            <br>
+            &nbsp;</td></tr></table></td></tr><tr>
+       <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0 " style="line-height: 0; padding-bottom: 40px; " valign="top " width="100% ">
+        &nbsp;</td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 30px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 50%; padding-right: 10px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><style type="text/css">
+a:hover {
+    text-decoration: underline !important;
+  }</style><table align="center" border="0 " cellpadding="0 " cellspacing="0 " style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; ">
+ 
+  <tr>
+   <th bgcolor="#ffffff" class="VC-Float" style="font-weight:normal;text-align:left;position: relative;" valign="top">
+    <!-- <a class="test" href="https://www.cathaypacific.com/cx/sc_CN.html" style="color:transparent;width:100%; height: 100%; position: absolute;z-index:auto;">placeholder</a> --><table align="left" border="0" cellpadding="0" cellspacing="0" class="deviceWidthCommon" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="310">
+     
+      <tr>
+       <td align="center" valign="top" width="100%">
+        <a alias="%%=v(@alias8)=%%" conversion="false" data-linkto="https://" href="https://w.dianping.com/cube/evoke/dianping.html?url=https%3A%2F%2Fcube.dianping.com%2Fcube%2Fblock%2Fe6ea6518377c%2F390041%2Findex.html&shareid=9yMum30YA9_1790665534&utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20261019-HK-THE_SHORTLIST_MASS_2026&utm_content=V21" name="hero image" target="_blank" title=""><img alt="hero" data-assetid="619774" src="https://image.e.cathaypacific.com/lib/fe3f11717064047d751475/m/1/41de2ff6-93ff-40db-8829-093834f7e5fa.png" style="margin: 0px; padding: 0px; display: block; height: auto; width: 100%; text-align: center; border: 0px transparent;" width="310"></a></td></tr><tr>
+       <td align="left" bgcolor="#f9f9f9" style="background-color:%%=v(@PillarBGColor)=%%;padding: 30px 20px; text-align: left;" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0">
+         
+          <tr>
+           <td style="line-height:26px; width:280px; text-align:left " width="428">
+            <font color="#272727" face="%%=v(@BodyFontFamily)=%%"><span style="font-size: 20px;">aaaa</span></font></td></tr><tr>
+           <td class="infoText" style="padding-top:20px; line-height:20px; width:640px; text-align:left ">
+            <span style="margin: 0px; color:#272727;font-family:%%=v(@BodyFontFamily)=%%;font-size:14px ">不管精致美食还是⽔疗体验，尽享各式⽣活体验，同时累积 &ldquo;亚洲万⾥通&rdquo; ⾥数。11 月 30 日或之前在大众点评专属活动页面登记，之后惠顾大湾区 300+ 参与门店，通过大众点评 App 完成消费，即可累积高达 <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">400</span>，并获得一次抽奖机会，有机会赢取 <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">10,000</span>。</span></td></tr><tr>
+           <td class="gateTimeText " style="padding-top:15px; line-height:24px; text-align:left ">
+            <a alias="%%=v(@alias8)=%%" conversion="false" data-linkto="https://" href="https://w.dianping.com/cube/evoke/dianping.html?url=https%3A%2F%2Fcube.dianping.com%2Fcube%2Fblock%2Fe6ea6518377c%2F390041%2Findex.html&shareid=9yMum30YA9_1790665534&utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20261019-HK-THE_SHORTLIST_MASS_2026&utm_content=V21" style="color:#367878;text-decoration:none;" title=""><span class="LinkDisplay hide" style="margin: 0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 13.7px;line-height: 24px;vertical-align:middle;padding-right: 9px;">在⼤众点评 App 搜索 &ldquo;湾区⾥享⽣活&rdquo;</span><span class="LinkDisplay show" style="display: none; margin: 0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;vertical-align:middle;padding-right: 9px;">在⼤众点评 App 搜索 &ldquo;湾区⾥享⽣活&rdquo; </span><span style="padding-bottom:1px;vertical-align:middle;"><img src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/link-arrow.png" width="16"></span></a></td></tr></table></td></tr><tr>
+       <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0" style="line-height: 0; padding-bottom: 40px;" valign="top" width="100%">
+        &nbsp;</td></tr></table></th></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 10px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><style type="text/css">
+a:hover {
+    text-decoration: underline !important;
+  }</style><table align="center" border="0 " cellpadding="0 " cellspacing="0 " style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; ">
+ 
+  <tr>
+   <th bgcolor="#ffffff" class="VC-Float" style="font-weight:normal;text-align:left;position: relative;" valign="top">
+    <!-- <a class="test" href="https://www.cathaypacific.com/cx/sc_CN.html" style="color:transparent;width:100%; height: 100%; position: absolute;z-index:auto;">placeholder</a> --><table align="left" border="0" cellpadding="0" cellspacing="0" class="deviceWidthCommon" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="310">
+     
+      <tr>
+       <td align="center" valign="top" width="100%">
+        <a alias="%%=v(@alias9)=%%" conversion="false" data-linkto="https://" href="https://cloud.huaruntong.cn/web/activity/promotion/index.html?url=yzwlt2610&utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20261019-HK-THE_SHORTLIST_MASS_2026&utm_content=V21" name="hero image" target="_blank" title=""><img alt="hero" data-assetid="619773" src="https://image.e.cathaypacific.com/lib/fe3f11717064047d751475/m/1/255a13dd-c081-411b-8d3c-e9246bbfb07b.jpeg" style="margin: 0px; padding: 0px; display: block; height: auto; width: 100%; text-align: center; border: 0px transparent;" width="310"></a></td></tr><tr>
+       <td align="left" bgcolor="#f9f9f9" style="background-color:%%=v(@PillarBGColor)=%%;padding: 30px 20px; text-align: left;" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0">
+         
+          <tr>
+           <td style="line-height:26px; width:280px; text-align:left " width="428">
+            <span style="margin: 0px;font-family:%%=v(@BodyFontFamily)=%%;font-size:20px;color:#272727 "><span style="">bbbb</span></span></td></tr><tr>
+           <td class="infoText" style="padding-top:20px; line-height:20px; width:640px; text-align:left ">
+            <span style="margin: 0px; color:#272727;font-family:%%=v(@BodyFontFamily)=%%;font-size:14px "><span style="">即日起至 11 月 9 日，以万象星兑里数，累积兑换越多，排名越靠前，赢取 <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">10,000</span>、<span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">7,000 </span>及国泰周边产品的机会越大。到访深圳湾万象城国泰 80 周年限时快闪空间，更有一系列周年庆祝活动待您发掘。<br class="hide">
+            <span class="hide">&nbsp;</span><br class="hide">
+            <span class="hide">&nbsp;</span></span></span></td></tr><tr>
+           <td class="gateTimeText " style="padding-top:15px; line-height:24px; text-align:left ">
+            <a alias="%%=v(@alias9)=%%" conversion="false" data-linkto="https://" href="https://cloud.huaruntong.cn/web/activity/promotion/index.html?url=yzwlt2610&utm_medium=EDM-LRP&utm_source=LRP-ESOL&utm_campaign=20261019-HK-THE_SHORTLIST_MASS_2026&utm_content=V21" style="color:#367878;text-decoration:none;" title=""><span class="LinkDisplay" style="margin: 0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;vertical-align:middle;padding-right: 9px;">立即兑换 </span><span style="padding-bottom:1px;vertical-align:middle;"><img src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/link-arrow.png" width="16"> </span></a><span class="LinkDisplay" style="margin: 0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;vertical-align:middle;padding-right: 9px;"><span class="hide">&nbsp;</span></span></td></tr></table></td></tr><tr>
+       <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0" style="line-height: 0; padding-bottom: 40px;" valign="top" width="100%">
+        &nbsp;</td></tr></table></th></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <!--####################################### BODY START  #######################################--><table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <td align="left" bgcolor="#ffffff" height="0" style="line-height: 0; padding-top: 20px;" valign="middle" width="100%">
+        &nbsp;</td></tr><tr>
+       <td align="center" valign="middle" width="100%">
+        <!--######################### OFFER STORY 1 - HORIZONTAL START #######################--><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+         
+          <tr>
+           <td align="center" bgcolor="#ffffff" valign="middle" width="100%">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+             
+              <tr>
+               <th bgcolor="#ffffff" class="VC-Float" style="background: #FFFFFF; font-weight: normal;" valign="middle">
+                <table align="right" border="0" cellpadding="0" cellspacing="0" class="VC-Width-1-2" style="mso-table-lspace:0pt; mso-table-rspace:0pt; float: left; overflow: hidden;" width="100%">
+                 
+                  <tr>
+                   <td align="left" class="paddingLeft20 paddingRight20" style="padding: 0px 30px 0px 30px;text-align:left;" valign="middle">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt;" width="100%">
+                     
+                      <tr>
+                       <td align="left" valign="middle" width="100%">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family:%%=v(@BodyFontFamily)=%%;">
+                         
+                          <tr>
+                           <td class="notMsoBg" style=" color: #367878; font-size: 20px;line-height: 26px;width: 640px;text-align: left;">
+                            <b>探索大湾区 </b></td></tr></table></td></tr></table></td></tr></table></th></tr></table></td></tr></table><!--######################### OFFER STORY 1 - HORIZONTAL END  ###########################--></td></tr><tr>
+       <td align="left" bgcolor="#ffffff" height="0 " style="line-height: 0; padding-bottom: 20px; " valign="middle " width="100% ">
+        &nbsp;</td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><style type="text/css">
+a:hover {
+    text-decoration: underline !important;
+  }</style><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <!--####################################### BODY START  #######################################--><table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" width="700">
+     
+      <tr>
+       <td align="center" valign="top" width="100%">
+        <!--######################### OFFER STORY 1 - HORIZONTAL START #######################--><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+         
+          <tr>
+           <td align="center" bgcolor="#ffffff" valign="top" width="100%">
+            <table align="center" bgcolor="#f9f9f9" border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" width="640">
+             
+              <tr>
+               <th align="right" bgcolor="#ffffff" class="deviceWidthLarger  VC-Float" style="background: #ffffff;font-weight: normal;display:block;" valign="top" width="320">
+                <a alias="" conversion="false" data-linkto="http://" href="http://www.cathaypacific.com" style="color: #116F9A !important; text-decoration:none;" title=""><img alt="hero image" src="https://www.cathaypacific.com/content/dam/focal-point/cx/city-offer-thumbnail/LHR.renditionimage.450.300.jpg" style="margin: 0px; padding: 0px; display: block; height: auto; width: 100%; text-align: center; border: none;" width="320"></a></th><th bgcolor="#f9f9f9" class="deviceWidthLarger VC-Float" style="background-color:%%=v(@PillarBGColor)=%%;font-weight: normal;" valign="middle">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" style="mso-table-lspace:0pt; mso-table-rspace:0pt; float: right; overflow: hidden;" width="320">
+                 
+                  <tr>
+                   <td align="left" class="deviceWidthLarger" style="padding:30px 20px 30px 20px;text-align:left;" valign="middle" width="100%">
+                    <table align="center " border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" style="border:undefined">
+                     
+                      <tr>
+                       <td style="line-height:26px; width:280px; text-align:left " width="320">
+                        <span style="margin: 0px;font-family:%%=v(@BodyFontFamily)=%%;font-size:20px;color:#272727 "><span style="">Card Title</span></span></td></tr><tr>
+                       <td class="infoText" style="padding-top:15px; line-height:20px; width:320px; text-align:left ">
+                        <span style="margin: 0px; color:#272727;font-family:%%=v(@BodyFontFamily)=%%;font-size:14px "><span style="">Up to 25% Off these six handpicked hotelsUp to 25% Off these six handpicked hotelsUp to 25% Off these six handpicked hotelUp to 25% Off these six handpicked hotelsUp to 25% Off these six handpicked hotelsUp to 25% Off these six handpicked hotelssUp to 25% Off these six handpicked hotelsUp to 25% Off these six handpicked hotels</span></span></td></tr><tr>
+                       <td class="gateTimeText" style="padding-top:15px; line-height:24px; text-align:left ">
+                        <a href="http://www.cathaypacific.com" style="color:#367878;text-decoration:none;"><span class="LinkDisplay" style="margin: 0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;vertical-align:middle;padding-right:8px;">Link more </span><span style="padding-bottom:1px;vertical-align:middle;"><img src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/link-arrow.png" width="16"> </span></a></td></tr></table></td></tr></table></th></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" width="640">
+             
+              <tr>
+               <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0" style="line-height: 0; padding-bottom: 40px;" valign="top" width="100%">
+                &nbsp;</td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><style type="text/css">
+a:hover {
+    text-decoration: underline !important;
+  }</style><table cellpadding="0" cellspacing="0" class="slot-styling" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="center" class="slot-styling camarker-inner">
+    <table align="center" cellpadding="0" cellspacing="0" class="stylingblock-content-wrapper deviceWidthLarger" role="presentation" width="700">
+     
+      <tr>
+       <td align="center" class="stylingblock-content-wrapper camarker-inner" width="100%">
+        <table cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+         
+          <tr>
+           <td align="center" bgcolor="#ffffff" valign="middle" width="100%">
+            <table align="center" bgcolor="#f9f9f9" cellpadding="0" cellspacing="0" class="deviceWidthLarger" dir="rtl" role="presentation" width="640">
+             
+              <tr>
+               <td class="responsive-td deviceWidthLarger" dir="ltr" style="width: 50%; padding-bottom: 0px; padding-left: 0px;" valign="top">
+                <table cellpadding="0" cellspacing="0" class="stylingblock-content-wrapper" role="presentation" style="background-color: transparent; min-width: 100%; " width="100%">
+                 
+                  <tr>
+                   <td class="stylingblock-content-wrapper camarker-inner" style="padding: 0px; ">
+                    <table align="left" border="0 " cellpadding="0 " cellspacing="0 " class="deviceWidthLarger" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                     
+                      <tr>
+                       <th align="left" bgcolor="#ffffff" class="deviceWidthLarger" style="background: #ffffff;font-weight: normal;position: relative;" valign="top">
+                        <img alt="hero image" data-assetid="600140" src="https://image.e.cathaypacific.com/lib/fe3211717064047f711d73/m/1/46960094-adfb-4590-b67b-aa5248d8e7b6.jpg" style="margin: 0px; padding: 0px; text-align: center; width: 100%; height: auto; border: none;" width="320"></th></tr></table></td></tr></table></td><td bgcolor="#f9f9f9" class="responsive-td deviceWidthLarger" dir="ltr" style="width: 50%; padding-bottom: 0px; padding-right: 0px;" valign="middle">
+                <table border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" style="mso-table-lspace:0pt; mso-table-rspace:0pt; overflow: hidden;height:100%;" width="320">
+                 
+                  <tr>
+                   <td align="left" bgcolor="#f9f9f9" class="deviceWidthLarger" style="background-color:%%=v(@PillarBGColor)=%%;padding:30px 20px 30px 20px;text-align:left;" valign="middle">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" style="border:undefined">
+                     
+                      <tr>
+                       <td style="line-height:26px; text-align:left" width="320">
+                        <span style="margin: 0px;font-family:%%=v(@BodyFontFamily)=%%;font-size:20px;color:#272727 "><span style="">Snap on the go</span></span></td></tr><tr>
+                      </tr><tr>
+                       <td class="infoText" style="padding-top:10px; line-height:20px;text-align:left;" width="320">
+                        <span style="margin: 0px; color:#272727;font-family:%%=v(@BodyFontFamily)=%%;font-size:14px ">Let your little ones see the world through their own creative lens! Designed for children aged 6 and above, this lightweight digital camera is easy to use, packed with fun photo frames, and comes with travel-themed accessories &mdash; ideal for young explorers to capture every special moment anytime, anywhere.<br>
+                        <br>
+                        <b>Cathay kids&rsquo; digital camera</b></span><br>
+                        <span style="margin: 0px; color:#272727;font-family:%%=v(@BodyFontFamily)=%%;font-size:14px ">HKD340&nbsp;or <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">7,800</span><br>
+                        Earn up to <span style="white-space: nowrap;"><img alt="" height="11" src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/asiamiles.png" style="height: 11px; width: 9px;" width="9">170</span></span></td></tr><tr>
+                       <td class="gateTimeText " style="padding-top:15px; line-height:24px; text-align:left ">
+                        <a alias="Cathay kids’ digital camera" conversion="false" data-linkto="https://" href="https://lifestyle.asiamiles.com/en/HK/p/CXB_0411_50001?utm_medium=EDM-LRP&utm_source=LRP-NAR&utm_campaign=20250823-HK-NAR_CXMERCH_BLIND-BOX-COLLECTION&utm_content=V1_HK" style="color:#367878;text-decoration:none;" title=""><span class="LinkDisplay" style="margin: 0px;color: #367878;font-family:%%=v(@BodyFontFamily)=%%;font-size: 16px;line-height: 24px;vertical-align:middle;padding-right:8px;">Shop now </span><span style="padding-bottom:1px;vertical-align:middle;"><img src="https://www.cathaypacific.com/content/dam/cx/applications/email/assets-lrp/link-arrow.png" width="16"> </span></a></td></tr></table></td></tr></table></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidthLarger" style="mso-table-lspace:0pt; mso-table-rspace:0pt; overflow: hidden;" width="640">
+             
+              <tr>
+               <td align="center" bgcolor="#ffffff" valign="middle" width="100%">
+                <table align="center" border="0 " cellpadding="0 " cellspacing="0 " class="deviceWidthLarger" width="640">
+                 
+                  <tr>
+                   <td align="left" bgcolor="#ffffff" class="smBottomPadding" height="0" style="line-height: 0; padding-bottom: 40px;" valign="top" width="100%">
+                    &nbsp;</td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+          <!-- Footer-->
+        </td>
+      </tr>
+    </table>
+    <!-- Wrapper end -->
+  </body>
+</html>
