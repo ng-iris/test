@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Wordle Mobile</title>
+<title>Portfolio</title>
 
 <style>
 *{
@@ -122,6 +122,22 @@ h1{
     font-weight:bold;
 }
 
+.next-btn{
+    margin:15px 0;
+    padding:12px 24px;
+    font-size:18px;
+    font-weight:bold;
+    border:none;
+    border-radius:8px;
+    background:#538d4e;
+    color:white;
+    cursor:pointer;
+}
+
+.next-btn:hover{
+    opacity:0.9;
+}
+
 @media(max-width:480px){
 
     .tile{
@@ -152,6 +168,9 @@ h1{
     <h1>WORDLE</h1>
 
     <div id="message"></div>
+    <a id="nextPageBtn" href="test.html" style="display:none;">
+        <button class="next-btn">Continue</button>
+    </a>
 
     <div id="board" class="board"></div>
 
@@ -294,10 +313,14 @@ function submitGuess(){
 
     if(guess === ANSWER){
 
-        message.textContent = "🎉 You Win!";
-        row = MAX_ROWS;
-        return;
-    }
+    message.textContent = "🎉 You Win!";
+
+    document.getElementById("nextPageBtn").style.display =
+        "inline-block";
+
+    row = MAX_ROWS;
+    return;
+}
 
     row++;
     col=0;
